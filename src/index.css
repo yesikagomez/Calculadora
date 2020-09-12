@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+#calculadora {
+  max-width:500px;
+  background-color: #ddd;
+  border-radius: 10px;
+  padding: 25px;
+}
+
+#scroll{
+  border: 0;
+  font-size: 20px;
+  overflow-x:scroll;
+  width:100%;
+  background: white;
+}
+
+
+#contenedor{
+  margin-top: 05%;
+  
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
